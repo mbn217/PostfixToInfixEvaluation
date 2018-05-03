@@ -1,6 +1,6 @@
 /*
 * File: Expression.java
-* Author: Mohamed Nheri
+* Author: mbn217
 * Date: 04/06/2018
 * Purpose: This class will evaluate the postfix expression
 * and export the address instrctions to Output.txt file

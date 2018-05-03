@@ -1,6 +1,6 @@
 /*
 * File: OperatorNode.java
-* Author: Mohamed Nheri
+* Author: mbn217
 * Date: 04/06/2018
 * Purpose: This concrete class will extend the TreeNode
 * abstract class and implement its method

@@ -1,6 +1,6 @@
 /*
 * File: Project2X.java
-* Author: Mohamed Nheri
+* Author: mbn217
 * Date: 04/06/2018
 * Purpose: This class will constrcut the Gui of the application 
 * and process the evaluation based on user input
